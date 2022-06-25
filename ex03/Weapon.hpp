@@ -7,8 +7,11 @@ class Weapon
 {
 	public:
 
+	Weapon(const std::string& type);
+	Weapon(const Weapon& weapon);
+
 	const std::string&	getType(void);
-	void				setType(std::string type);
+	void				setType(const std::string& type);
 
 	private:
 

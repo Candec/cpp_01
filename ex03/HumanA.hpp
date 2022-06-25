@@ -8,13 +8,13 @@ class HumanA
 {
 	public:
 
-	HumanA(Weapon weapon);
-	~HumanA();
+	HumanA(const std::string& name, Weapon& weapon);
 
 	std::string	name;
-	Weapon weapon;
+	Weapon& _weapon;
 
 	void attack();
+	void setWeapon(const Weapon weapon);
 
 };
 
