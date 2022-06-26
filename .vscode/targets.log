@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Jun 16 15:10:23 2022
+# Make data base, printed on Sun Jun 26 12:48:04 2022
 
 # Variables
 
@@ -47,15 +47,13 @@ VSCODE_CWD = /mnt/c/Users/jesus.ibanez/AppData/Local/Programs/Microsoft VS Code
 # default
 MAKE_HOST := x86_64-pc-linux-gnu
 # environment
-PATH = /home/candec/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/windows/system32:/mnt/c/windows:/mnt/c/windows/System32/Wbem:/mnt/c/windows/System32/WindowsPowerShell/v1.0/:/mnt/c/windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64/:/mnt/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86/:/mnt/c/Program Files (x86)/Common Files/Pulse Secure/VC142.CRT/X64/:/mnt/c/Program Files (x86)/Common Files/Pulse Secure/VC142.CRT/X86/:/mnt/c/Program Files/dotnet/:/mnt/c/Users/jesus.ibanez/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/jesus.ibanez/AppData/Local/Programs/Microsoft VS Code/bin:/home/candec/.local/bin
+PATH = /home/candec/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/windows/system32:/mnt/c/windows:/mnt/c/windows/System32/Wbem:/mnt/c/windows/System32/WindowsPowerShell/v1.0/:/mnt/c/windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64/:/mnt/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86/:/mnt/c/Program Files (x86)/Common Files/Pulse Secure/VC142.CRT/X64/:/mnt/c/Program Files (x86)/Common Files/Pulse Secure/VC142.CRT/X86/:/mnt/c/Program Files/dotnet/:/mnt/c/Users/jesus.ibanez/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/jesus.ibanez/AppData/Local/Programs/Microsoft VS Code/bin:/home/candec/.local/bin
 # environment
 LSCOLORS = Gxfxcxdxbxegedabagacad
 # environment
 VSCODE_LOG_STACK = false
 # environment
-VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-9d842611-ac45-4942-9912-c771ee75b150.sock
-# environment
-VSCODE_SERVER_TAR = /mnt/c/Users/JESUS~1.IBA/AppData/Local/Temp/vscode-remote-wsl/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/vscode-server-stable-linux-x64.tar.gz
+VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-abdb31b0-cd49-451f-a93d-0fad44ff230d.sock
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
 # environment
@@ -71,9 +69,9 @@ PWD = /home/candec/Documents/cpp_01
 # default
 .LOADED := 
 # environment
-WSL_INTEROP = /run/WSL/902_interop
+WSL_INTEROP = /run/WSL/9_interop
 # environment
-WT_SESSION = b562d907-2ad0-4607-9bfd-1c927cd06cd3
+WT_SESSION = 765b5704-4934-484f-8def-c8a0c014806f
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
@@ -81,7 +79,7 @@ HOME = /home/candec
 # environment
 LOGNAME = candec
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # environment
 ZSH = /home/candec/.oh-my-zsh
 # environment
@@ -159,7 +157,7 @@ VSCODE_EXTHOST_WILL_SEND_SOCKET = true
 # environment
 WSL_DISTRO_NAME = Ubuntu-20.04
 # variable set hash-table stats:
-# Load=73/1024=7%, Rehash=0, Collisions=4/95=4%
+# Load=72/1024=7%, Rehash=0, Collisions=4/94=4%
 
 # Pattern-specific Variable Values
 
@@ -225,6 +223,6 @@ GNUmakefile:
 # strcache performance: lookups = 23 / hit rate = 13%
 # hash-table stats:
 # Load=20/8192=0%, Rehash=0, Collisions=1/23=4%
-# Finished Make data base on Thu Jun 16 15:10:23 2022
+# Finished Make data base on Sun Jun 26 12:48:04 2022
 
  
