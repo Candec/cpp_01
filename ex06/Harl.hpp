@@ -9,8 +9,8 @@ class Harl
 
 	// Rip to initializing the values here. It's only a CPP11 functionality
 	//	= { >:C }
-	std::string mode[4];
-	void (Harl::*_pmode[4])();
+	std::string mode[5];
+	void (Harl::*_pmode[5])();
 
 	Harl();
 	~Harl();
@@ -23,6 +23,7 @@ class Harl
 	void info(void);
 	void warning(void);
 	void error(void);
+	void other(void);
 };
 
 #endif
